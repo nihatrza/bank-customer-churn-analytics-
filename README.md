@@ -116,8 +116,14 @@ SWITCH(
 2. **Database Provisioning**: Execute the SQL scripts in the `/sql` directory sequentially within your PostgreSQL environment (pgAdmin 4 recommended) to build the Star Schema and populate the data.
 3. **Dashboard Activation**: Open the `.pbix` file in Power BI Desktop. Navigate to `Transform Data -> Data Source Settings` to update the PostgreSQL credentials to your local or cloud server instance.
 
----
+## 👤 Author
 
-**Author:** Nihat Rzaquluzade
-**Role:** Data Analyst / BI Developer
-**Connect:** [LinkedIn](#) | [GitHub](#)
+**Nihat Rzaquluzade | Junior Data Analyst**
+
+This project was developed as a professional **Data Analytics portfolio project**, demonstrating skills in Python, PostgreSQL, ETL processes, data cleaning, SQL analysis, and Power BI data visualization.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatrza)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihat-rzaquluzade/)
+
+---
