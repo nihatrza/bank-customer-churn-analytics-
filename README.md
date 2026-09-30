@@ -12,15 +12,15 @@ An end-to-end, enterprise-grade data analytics pipeline designed to identify, qu
 
 ### 1. Executive Overview
 Focuses on high-level KPIs, geographic risk distribution, and complaint impact.
-![Executive Overview](images/overview_page.png)
+![Executive Overview](images/01_overview_page.png)
 
 ### 2. Financial Behavior
 Analyzes product engagement, credit scores, and active vs. inactive customer retention.
-![Financial Behavior](images/financial_behavior_page.png)
+![Financial Behavior](images/02_financial_behavior_page.png)
 
 ### 3. Risk Profiling
 Dynamic Rule-Based Risk Segmentation highlighting high-risk customer profiles for immediate intervention.
-![Risk Profiling](images/risk_profiling_page.png)
+![Risk Profiling](images/03_risk_profiling_page.png)
 
 ## 🏗️ Data Architecture & ETL Pipeline
 
